@@ -1,3 +1,16 @@
 h1{
     color: red;
+    text-align: center;
+    font-weight: 600;
+}
+P{
+  text-align: left;
+}
+p { 
+    font-family: sans-serif;
+}
+
+ul {
+    font-size: 20px;
+    line-height: 30px;
 }
